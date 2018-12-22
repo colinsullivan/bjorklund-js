@@ -2,7 +2,7 @@
   "name": "bjorklund-js",
   "version": "0.1.1",
   "description": "A Javascript Universal Module implementation of the Bjorklund algorithm",
-  "main": "bjorklund.min.js",
+  "main": "bjorklund.js",
   "directories": {
     "test": "test"
   },
